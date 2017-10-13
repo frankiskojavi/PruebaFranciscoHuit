@@ -1,0 +1,100 @@
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\obj\Debug\PruebaHabilidadesFranciscoHuit.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\ApplicationInsights.config
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\csc.exe
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\vbc.exe
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\VBCSCompiler.exe
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\PruebaHabilidadesFranciscoHuit.dll.config
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\PruebaHabilidadesFranciscoHuit.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\PruebaHabilidadesFranciscoHuit.pdb
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.Web.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.ApplicationInsights.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.Web.xml
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.ApplicationInsights.xml
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\obj\Debug\PruebaHabilidadesFranciscoHuit.dll
+c:\users\dell\documents\visual studio 2015\Projects\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\obj\Debug\PruebaHabilidadesFranciscoHuit.pdb
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\ApplicationInsights.config
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\csc.exe
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\System.Collections.Immutable.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\System.Reflection.Metadata.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\vbc.exe
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\VBCSCompiler.exe
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\VBCSCompiler.exe.config
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\PruebaHabilidadesFranciscoHuit.dll.config
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\PruebaHabilidadesFranciscoHuit.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\PruebaHabilidadesFranciscoHuit.pdb
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.Agent.Intercept.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.DependencyCollector.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.Web.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.WindowsServer.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.ApplicationInsights.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.DependencyCollector.xml
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.Web.xml
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.WindowsServer.xml
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.ApplicationInsights.xml
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\obj\Debug\PruebaHabilidadesFranciscoHuit.csprojResolveAssemblyReference.cache
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\obj\Debug\PruebaHabilidadesFranciscoHuit.dll
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\obj\Debug\PruebaHabilidadesFranciscoHuit.pdb
+E:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\AjaxControlToolkit.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\ApplicationInsights.config
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\csc.exe
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\System.Collections.Immutable.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\System.Reflection.Metadata.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\vbc.exe
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\VBCSCompiler.exe
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\roslyn\VBCSCompiler.exe.config
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\PruebaHabilidadesFranciscoHuit.dll.config
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\PruebaHabilidadesFranciscoHuit.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\PruebaHabilidadesFranciscoHuit.pdb
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.DependencyCollector.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.Web.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.WindowsServer.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.ApplicationInsights.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.DependencyCollector.xml
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.Web.xml
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.AI.WindowsServer.xml
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.ApplicationInsights.xml
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\obj\Debug\PruebaHabilidadesFranciscoHuit.csprojResolveAssemblyReference.cache
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\obj\Debug\PruebaHabilidadesFranciscoHuit.dll
+D:\PruebaHabilidadesFranciscoHuit\PruebaHabilidadesFranciscoHuit\obj\Debug\PruebaHabilidadesFranciscoHuit.pdb
